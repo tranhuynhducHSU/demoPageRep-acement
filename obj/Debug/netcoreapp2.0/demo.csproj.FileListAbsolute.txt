@@ -1,0 +1,11 @@
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Debug\netcoreapp2.0\demo.deps.json
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Debug\netcoreapp2.0\demo.runtimeconfig.json
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Debug\netcoreapp2.0\demo.runtimeconfig.dev.json
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Debug\netcoreapp2.0\demo.dll
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Debug\netcoreapp2.0\demo.pdb
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Debug\netcoreapp2.0\demo.csprojResolveAssemblyReference.cache
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Debug\netcoreapp2.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfoInputs.cache
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Debug\netcoreapp2.0\demo.AssemblyInfo.cs
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Debug\netcoreapp2.0\demo.dll
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Debug\netcoreapp2.0\demo.pdb

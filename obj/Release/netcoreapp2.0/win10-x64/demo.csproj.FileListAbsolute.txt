@@ -1,0 +1,13 @@
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Release\netcoreapp2.0\win10-x64\demo.exe
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Release\netcoreapp2.0\win10-x64\demo.deps.json
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Release\netcoreapp2.0\win10-x64\demo.runtimeconfig.json
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Release\netcoreapp2.0\win10-x64\demo.runtimeconfig.dev.json
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Release\netcoreapp2.0\win10-x64\demo.dll
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\bin\Release\netcoreapp2.0\win10-x64\demo.pdb
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Release\netcoreapp2.0\win10-x64\demo.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Release\netcoreapp2.0\win10-x64\demo.AssemblyInfoInputs.cache
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Release\netcoreapp2.0\win10-x64\demo.AssemblyInfo.cs
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Release\netcoreapp2.0\win10-x64\demo.dll
+C:\Users\Thanh Cong\Desktop\Lý thuyết hệ điều hành\demo\obj\Release\netcoreapp2.0\win10-x64\demo.pdb
